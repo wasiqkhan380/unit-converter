@@ -34,7 +34,7 @@ class _HomeScreenState extends State<HomeScreen> {
             size: 30,
           ),
           SizedBox(
-            width: 20,
+            width: 30,
           ),
           Icon(
             Icons.search,
