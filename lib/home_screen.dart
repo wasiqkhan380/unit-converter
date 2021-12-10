@@ -15,7 +15,7 @@ class HomeScreen extends StatelessWidget {
       backgroundColor: Colors.orange,
         title: const Text("Unit Converter"),
         actions: const [
-          Icon(Icons.add_comment,size: 30,),SizedBox(width:20,),
+          Icon(Icons.add_comment,size: 40,),SizedBox(width:20,),
           Icon(Icons.search,size: 30,),SizedBox(width:20,),
           Icon(Icons.more_vert,size: 30,),
         ],
